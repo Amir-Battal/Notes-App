@@ -23,7 +23,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#related">Related</a> •
+  <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
 
@@ -68,6 +68,14 @@ $ npm install
 # Run the app
 $ npm start
 ```
+
+## Credits
+
+This software uses the following open source packages:
+
+- [React.js](https://react.dev/)
+- [Node.js](https://nodejs.org/)
+
 
 
 ## License
